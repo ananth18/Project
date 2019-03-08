@@ -52,5 +52,4 @@ void MergeSort(int a[],int low,int high)
        for(k=1;k<=n;k++)
        printf("%d\t",a[k]);
        printf("\n the time taken is %e",ts);
-       getch();
    }
